@@ -34,7 +34,7 @@
 </div>
 
 <br/>
- <p align="left">
+ <p align="center">
 <br>
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRCSilva&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ViniciusRCSilva"/> 
