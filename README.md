@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Olá, eu me chamo Vinicius!</h1>
-<p align="center">Sou estudante de Ciências da Computação, cursando o 3º período. <br> <img src="https://www.obomdeviajar.com.br/wp-content/uploads/Recursos_internet.gif" width="100px"/></p>
+<p align="center">Sou estudante de Ciências da Computação, cursando o 4º período. <br> <img src="https://www.obomdeviajar.com.br/wp-content/uploads/Recursos_internet.gif" width="100px"/></p>
 
 ## <h2> :rocket: &nbsp;IDE's </h2>
 
