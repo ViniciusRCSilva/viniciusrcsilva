@@ -11,6 +11,7 @@
 	<img alt="Dev-C++" src="https://img.shields.io/badge/dev-c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 	<img alt="ECLIPSE" src="https://img.shields.io/badge/eclipse%20-5A69E6.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/>
 	<img alt="SUBLIME-TEXT" src="https://img.shields.io/badge/sublime-text%20-FFA701.svg?&style=for-the-badge&logo=sublime-text&logoColor=white"/>
+	<img alt="PyCharm" src="https://img.shields.io/badge/pycharm%20-FFA701.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
 	<img alt="BRMODELO" src="https://img.shields.io/badge/br-modelo%20-14C400.svg?&style=for-the-badge&logo=br-modelo&logoColor=white"/>
  	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -22,6 +23,7 @@
   <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java%20-F59400?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-FFA701.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5%20-F57501?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3%20-0794E6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src="https://img.shields.io/badge/javascript%20-FFE730?style=for-the-badge&logo=javascript&logoColor=white"/>
