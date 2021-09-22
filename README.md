@@ -20,17 +20,15 @@
 <br>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java%20-F59400?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python%20-FFA701.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5%20-F57501?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3%20-0794E6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src="https://img.shields.io/badge/javascript%20-FFE730?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php%20-8251E6?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-	
+  <img alt="PHP" src="https://img.shields.io/badge/php%20-8251E6?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java%20-F59400?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-FFA701.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <br>
 </p>
 </div>
