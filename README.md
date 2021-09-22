@@ -5,10 +5,13 @@
 <h1 align="center">Olá, eu me chamo Vinicius!</h1>
 <p align="center">Sou estudante de Ciências da Computação, cursando o 4º período. <br> <img src="https://www.obomdeviajar.com.br/wp-content/uploads/Recursos_internet.gif" width="100px"/></p>
 
-## <h2> :rocket: &nbsp;IDE: </h2>
+## <h2> :rocket: &nbsp;IDE's: </h2>
 
 <p align="center">
- 	<img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+	<img alt="VsCode" src="https://img.shields.io/badge/VSCode%20-%23F05556.svg?style=for-the-badge&logo=visualstudiocode&color=blue&logoColor=white"/>
+	<img alt="DevCpp" src="https://img.shields.io/badge/Dev--C++%20-%23F05556.svg?style=for-the-badge&logo=c&color=darkblue&logoColor=white"/>
+	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23F05556.svg?style=for-the-badge&logo=eclipseide&color=orange&logoColor=white"/>
+	<img alt="SublimeText" src="https://img.shields.io/badge/Sublime-Text%20-%23F05556.svg?style=for-the-badge&logo=sublimetext&color=darkorange&logoColor=white"/>
 </p>
 
 ## <h3> :rocket: &nbsp;Minhas habilidades </h3>
