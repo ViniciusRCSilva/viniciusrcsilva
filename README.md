@@ -1,6 +1,6 @@
-<h1>Olá, eu me chamo Vinicius!</h1>
+<h1>Olá, eu me chamo Vinicius! 👋</h1>
 
-<p>Estudante de Ciências da Computação, cursando o 4º período.</p> 
+<p>Estudante de Ciências da Computação, cursando atualmente o 4º período.</p> 
 
 <img  align='right' width="300" src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png"> 
 
