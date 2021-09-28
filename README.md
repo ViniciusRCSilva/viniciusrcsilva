@@ -1,4 +1,4 @@
-<h1>Olá, eu me chamo Vinicius! 👋</h1>
+<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"> <br/> Eu me chamo Vinicius!</h1>
 
 <p>Estudante de Ciências da Computação, cursando atualmente o 4º período.</p> 
 
