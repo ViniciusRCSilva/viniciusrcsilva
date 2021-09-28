@@ -1,9 +1,8 @@
-<!--
-<img align="right" alt="Banner" src="https://miro.medium.com/max/1000/1*c34daw_rg89UAh4uFCZ96w.jpeg" width="350">
--->
+<h1>Olá, eu me chamo Vinicius!</h1>
 
-<h1 align="center">Olá, eu me chamo Vinicius!</h1>
-<p align="center">Sou estudante de Ciências da Computação, cursando o 4º período. <br> <img src="https://www.obomdeviajar.com.br/wp-content/uploads/Recursos_internet.gif" width="100px"/></p>
+<p>Estudante de Ciências da Computação, cursando o 4º período.</p> 
+
+<img  align='right' width="300" src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png"> 
 
 ## <h2> :rocket: &nbsp;IDE's: </h2>
 
@@ -49,6 +48,6 @@
   <br>
   <div>
   <a href = "mailto: viniciusflexa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-rodrigues-cardoso-silva-6a08881b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.linkedin.com/in/vinicius-rodrigues-cardoso-silva-6a08881b7/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
