@@ -1,6 +1,6 @@
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"> <br/> Eu me chamo Vinicius!</h1>
+<h1>Bem-Vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: </h1>
 
-<p>Estudante de Ciências da Computação, cursando atualmente o 4º período.</p> 
+<p>Eu me chamo Vinicius e tenho 19 anos! <br/>Sou estudante de Ciências da Computação, cursando atualmente o 4º período.</p> 
 
 <img  align='right' width="300" src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png"> 
 
