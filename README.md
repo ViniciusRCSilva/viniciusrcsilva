@@ -1,6 +1,6 @@
-<h1>Bem-Vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: </h1>
+<h1>Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: </h1>
 
-<p>Eu me chamo Vinicius e tenho 19 anos! <br/>Sou estudante de Ciências da Computação, cursando atualmente o 4º período.</p> 
+<p>My name is Vinicius and I'm 19! <br/>Studying Computer Science (4/8)</p> 
 
 <img  align='right' width="300" src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png"> 
 
@@ -13,7 +13,7 @@
 	<img alt="SublimeText" src="https://img.shields.io/badge/Sublime-Text%20-%23F05556.svg?style=for-the-badge&logo=sublimetext&color=darkorange&logoColor=white"/>
 </p>
 
-## <h3> :rocket: &nbsp;Minhas habilidades </h3>
+## <h3> :rocket: &nbsp;My Abilities </h3>
 <br>
 <p align="center">
 	<img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -44,7 +44,7 @@
   <br>
 </p>
  
-## 💬 Contatos
+## 💬 Contacts
   <br>
   <div>
   <a href = "mailto: viniciusflexa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
