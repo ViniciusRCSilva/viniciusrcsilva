@@ -1,6 +1,6 @@
 <h1>Hello and Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: </h1>
 
-<p>My name is Vinicius and I'm 20! <br/>Studying Computer Science (5/8) :computer:<br/>Full-Stack developer :man_technologist:</p> 
+<p>My name is Vinicius and I'm 20! <br/>Studying Computer Science (5/8) :computer:<br/>Trying to be a Full-Stack developer :man_technologist:</p> 
 
 <img  align='right' width="300" src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png"> 
 
