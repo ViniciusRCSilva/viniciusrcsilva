@@ -33,11 +33,8 @@
 <br/>
  <p align="center">
 <br>
-<div style="display: inline_block">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRCSilva&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ViniciusRCSilva"/> 
- 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRCSilva&layout=compact&langs_count=16&theme=dark"/>
+<div>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRCSilva&layout=compact&langs_count=16&theme=dark"/>
  
 </div>
 	   
