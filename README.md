@@ -1,4 +1,5 @@
-<h1>Hello and Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: </h1>
+<h1>Hello and Welcome!</h1>
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: (after "...Welcome!") -->
 
 <p>My name is Vinicius and I'm 20! <br/>Studying Computer Science (5/8) :computer:<br/>Enjoying Front-End :man_technologist:</p> 
 
