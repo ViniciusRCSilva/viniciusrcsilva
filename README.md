@@ -40,7 +40,8 @@
 
 <br/>
 
- <p align="center">
+<!-- 
+<p align="center">
 <br>
    <hr/>	
 <div align='left'>
@@ -49,6 +50,7 @@
   <hr/>	   
   <br>
 </p>
+-->
  
 ## 💬 Contact me!
   <br>
