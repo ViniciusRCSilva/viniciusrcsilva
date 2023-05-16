@@ -1,7 +1,7 @@
 <h1>Hello and Welcome! :smile:</h1>
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: (after "...Welcome!") -->
 
-<p>:man_technologist: Learning about Front-End technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Studying Computer Science. </p> 
+<p>:man_technologist: Learning about Web technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Studying Computer Science. </p> 
 
 <!-- ## <h2> :man_technologist: &nbsp;IDE's: </h2>
 
@@ -18,12 +18,12 @@
 	<img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+	<img align="center" alt="NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+	<img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 	<img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+	<img align="center" alt="TCSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
 	<img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-	<img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-	<img align="center" alt="NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-	<img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
   <br>
 </p>
 
@@ -32,6 +32,7 @@
 <p align="left">
 	<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
 	<img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg"> 
+	<img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 	<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	<img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	<img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -51,7 +52,12 @@
   <br>
 </p>
 -->
- 
+
+## <h3>👨‍💻 My Portfolio</h3>
+<a href = "https://vini-portfolio.vercel.app/" target="_blank">
+	<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+
 ## 💬 Contact me!
   <br>
   <div>
