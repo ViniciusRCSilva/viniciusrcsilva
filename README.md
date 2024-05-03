@@ -1,7 +1,7 @@
 <h1>Hello and Welcome! :smile:</h1>
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: (after "...Welcome!") -->
 
-<p>:man_technologist: Learning about Web technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Studying Computer Science. </p> 
+<p>:man_technologist: Learning about Web technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Graduated Computer Science. </p> 
 
 <!-- ## <h2> :man_technologist: &nbsp;IDE's: </h2>
 
