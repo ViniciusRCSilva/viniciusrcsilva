@@ -1,7 +1,7 @@
 <h1>Hello and Welcome! :smile:</h1>
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: (after "...Welcome!") -->
 
-<p>:man_technologist: Learning about Web technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Graduated Computer Science. </p> 
+<p>:man_technologist: Learning about technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Graduated Computer Science. </p> 
 
 <!-- ## <h2> :man_technologist: &nbsp;IDE's: </h2>
 
@@ -12,7 +12,7 @@
 	<img alt="SublimeText" src="https://img.shields.io/badge/Sublime-Text%20-%23F05556.svg?style=for-the-badge&logo=sublimetext&color=darkorange&logoColor=white"/>
 </p> -->
 
-## <h3> :rocket: &nbsp;My Main Skills </h3>
+## <h3> :rocket: &nbsp;My Skills </h3>
 <br>
 <p align="left">
 	<img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -26,17 +26,13 @@
 	<img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <br>
 </p>
-
-## <h3>Other Skills </h3>
-<br>
 <p align="left">
+	<img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
 	<img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg"> 
 	<img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 	<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	<img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	<img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <br>
 </p>
 
 <br/>
