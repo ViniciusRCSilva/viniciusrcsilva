@@ -1,66 +1,54 @@
-<h1>Hello and Welcome! :smile:</h1>
-<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">:smile: (after "...Welcome!") -->
+<div align="center">
 
-<p>:man_technologist: Learning about technology ever more; <br/>🎯 I always like to discover and solve programming challenges; <br/>:computer: Graduated Computer Science. </p> 
+# 👋 Hello, World! 
 
-<!-- ## <h2> :man_technologist: &nbsp;IDE's: </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Graduate;Full+Stack+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<p align="left">
-	<img alt="VsCode" src="https://img.shields.io/badge/VSCode%20-%23F05556.svg?style=for-the-badge&logo=visualstudiocode&color=blue&logoColor=white"/>
-	<img alt="DevCpp" src="https://img.shields.io/badge/Dev--C++%20-%23F05556.svg?style=for-the-badge&logo=c&color=darkblue&logoColor=white"/>
-	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23F05556.svg?style=for-the-badge&logo=eclipseide&color=orange&logoColor=white"/>
-	<img alt="SublimeText" src="https://img.shields.io/badge/Sublime-Text%20-%23F05556.svg?style=for-the-badge&logo=sublimetext&color=darkorange&logoColor=white"/>
-</p> -->
-
-## <h3> :rocket: &nbsp;My Skills </h3>
-<br>
-<p align="left">
-	<img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-	<img align="center" alt="NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-	<img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-	<img align="center" alt="PRISMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-	<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-	<img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-	<img align="center" alt="TCSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-	<img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <br>
-</p>
-<p align="left">
-	<img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-	<img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg"> 
-	<img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-	<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-	<img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</p>
-
-<br/>
-
-<!-- 
-<p align="center">
-<br>
-   <hr/>	
-<div align='left'>
-	<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRCSilva&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  <hr/>	   
-  <br>
-</p>
--->
 
-## <h3>👨‍💻 My Portfolio</h3>
-<a href = "https://vini-portfolio.vercel.app/" target="_blank">
-	<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
+## 🚀 About Me
 
-## 💬 Contact me!
-  <br>
-  <div>
-  <a href = "mailto: viniciusflexa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-rc-silva/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_vini.rcs_/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
+> 💻 Full Stack Developer passionate about technology
+>
+> 🎯 Always seeking new programming challenges
+>
+> 🎓 Computer Science Graduate
+>
+> 🌱 Continuously learning and evolving
+
+## 💻 Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌐 Portfolio & Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vini-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusflexa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-rc-silva/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vini.rcs_/)
+
+</div>
+
+---
