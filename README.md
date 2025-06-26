@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-> 💻 Full Stack Developer passionate about technology
+> 💻 Front-End Developer passionate about technology
 >
 > 🎯 Always seeking new programming challenges
 >
